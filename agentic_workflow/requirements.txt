@@ -1,0 +1,9 @@
+pydantic==2.10.5
+googlemaps==4.10.0
+bs4==0.0.2
+langgraph==0.2.63
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.3.0
+langchain-google-genai==2.0.8
+deepeval==2.1.8

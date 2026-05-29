@@ -1,0 +1,24 @@
+@"
+# Secrets
+.env
+*.env
+agentic_workflow/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+virtualenv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+"@ | Set-Content .gitignore
